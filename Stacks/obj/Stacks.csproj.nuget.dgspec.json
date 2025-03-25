@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/darkwister/Documentos/DotNetProjects/Stacks/Stacks.csproj": {}
+    "/home/darkwister/Documentos/DotNetProjects/Pilas/Stacks/Stacks.csproj": {}
   },
   "projects": {
-    "/home/darkwister/Documentos/DotNetProjects/Stacks/Stacks.csproj": {
+    "/home/darkwister/Documentos/DotNetProjects/Pilas/Stacks/Stacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/darkwister/Documentos/DotNetProjects/Stacks/Stacks.csproj",
+        "projectUniqueName": "/home/darkwister/Documentos/DotNetProjects/Pilas/Stacks/Stacks.csproj",
         "projectName": "Stacks",
-        "projectPath": "/home/darkwister/Documentos/DotNetProjects/Stacks/Stacks.csproj",
+        "projectPath": "/home/darkwister/Documentos/DotNetProjects/Pilas/Stacks/Stacks.csproj",
         "packagesPath": "/home/darkwister/.nuget/packages/",
-        "outputPath": "/home/darkwister/Documentos/DotNetProjects/Stacks/obj/",
+        "outputPath": "/home/darkwister/Documentos/DotNetProjects/Pilas/Stacks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/darkwister/.nuget/NuGet/NuGet.Config"
