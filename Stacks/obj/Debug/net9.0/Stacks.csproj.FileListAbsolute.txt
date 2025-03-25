@@ -1,0 +1,14 @@
+/home/darkwister/Documentos/DotNetProjects/Stacks/bin/Debug/net9.0/Stacks
+/home/darkwister/Documentos/DotNetProjects/Stacks/bin/Debug/net9.0/Stacks.deps.json
+/home/darkwister/Documentos/DotNetProjects/Stacks/bin/Debug/net9.0/Stacks.runtimeconfig.json
+/home/darkwister/Documentos/DotNetProjects/Stacks/bin/Debug/net9.0/Stacks.dll
+/home/darkwister/Documentos/DotNetProjects/Stacks/bin/Debug/net9.0/Stacks.pdb
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.AssemblyInfoInputs.cache
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.AssemblyInfo.cs
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.csproj.CoreCompileInputs.cache
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.dll
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/refint/Stacks.dll
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.pdb
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/Stacks.genruntimeconfig.cache
+/home/darkwister/Documentos/DotNetProjects/Stacks/obj/Debug/net9.0/ref/Stacks.dll

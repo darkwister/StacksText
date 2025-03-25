@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o14yJ9hcxTc=",
+  "success": true,
+  "projectFilePath": "/home/darkwister/Documentos/DotNetProjects/Stacks/Stacks.csproj",
+  "expectedPackageFiles": [
+    "/home/darkwister/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
